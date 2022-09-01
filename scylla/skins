@@ -23626,11 +23626,6 @@
          },
          {
             "lastUpdatedAt":1661876670876,
-            "objectId":"Item_Camper_K29InfectionRemover",
-            "quantity":CHANGE
-         },
-         {
-            "lastUpdatedAt":1661876670876,
             "objectId":"Addon_Medkit_BlightedSyringe",
             "quantity":CHANGE
          },
