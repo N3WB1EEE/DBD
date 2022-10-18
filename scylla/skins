@@ -24411,32 +24411,7 @@
       },
       {
         "lastUpdatedAt": 1665508399305,
-        "objectId": "Item_Camper_K29InfectionRemover",
-        "quantity": CHANGE
-      },
-      {
-        "lastUpdatedAt": 1665508399305,
-        "objectId": "Item_Camper_ContaminationSerum",
-        "quantity": CHANGE
-      },
-      {
-        "lastUpdatedAt": 1665508399305,
-        "objectId": "Item_FragileObject",
-        "quantity": CHANGE
-      },
-      {
-        "lastUpdatedAt": 1665508399305,
-        "objectId": "Item_Camper_OnryoTape",
-        "quantity": CHANGE
-      },
-      {
-        "lastUpdatedAt": 1665508399305,
         "objectId": "Item_Blighted_Serum",
-        "quantity": CHANGE
-      },
-      {
-        "lastUpdatedAt": 1665508399305,
-        "objectId": "Item_Camper_Firecracker_Flashbang",
         "quantity": CHANGE
       },
       {
