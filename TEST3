@@ -29411,16 +29411,6 @@
       },
       {
         "lastUpdatedAt": 1683297221,
-        "objectId": "Item_Camper_ContaminationSerum",
-        "quantity": 50
-      },
-      {
-        "lastUpdatedAt": 1683297221,
-        "objectId": "Item_Camper_Firecracker_Flashbang",
-        "quantity": 50
-      },
-      {
-        "lastUpdatedAt": 1683297221,
         "objectId": "Item_Slasher_DreamInducer",
         "quantity": 50
       },
@@ -29432,11 +29422,6 @@
       {
         "lastUpdatedAt": 1683297221,
         "objectId": "Item_Slasher_K25Power",
-        "quantity": 50
-      },
-      {
-        "lastUpdatedAt": 1683297221,
-        "objectId": "Item_LamentConfiguration",
         "quantity": 50
       },
       {
@@ -29462,11 +29447,6 @@
       {
         "lastUpdatedAt": 1683297221,
         "objectId": "Item_Slasher_K26Power",
-        "quantity": 50
-      },
-      {
-        "lastUpdatedAt": 1683297221,
-        "objectId": "Item_FragileObject",
         "quantity": 50
       },
       {
