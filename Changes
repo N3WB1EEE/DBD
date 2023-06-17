@@ -1,33 +1,9 @@
-<h2>Changelog</h2>
 <ul>
-  <li><strong>Version 1.0:</strong></li>
+  <strong> Scylla 1.0:</strong>
   <ul>
-    <li>Added feature A</li>
-    <li>Fixed bug B</li>
-  </ul>
-  <li><strong>Version 1.1:</strong></li>
-  <ul>
-    <li>Improved performance</li>
-    <li>Updated dependencies</li>
-  </ul>
-  <li><strong>Version 1.1:</strong></li>
-  <ul>
-    <li>Improved performance</li>
-    <li>Updated dependencies</li>
-  </ul>
-  <li><strong>Version 1.1:</strong></li>
-  <ul>
-    <li>Improved performance</li>
-    <li>Updated dependencies</li>
-  </ul>
-  <li><strong>Version 1.1:</strong></li>
-  <ul>
-    <li>Improved performance</li>
-    <li>Updated dependencies</li>
-  </ul>
-  <li><strong>Version 1.1:</strong></li>
-  <ul>
-    <li>Improved performance</li>
-    <li>Updated dependencies</li>
+    <li><strong>The tomes unlocker has been fixed and updated.</strong></li>
+    <li><strong>New skins, characters and charms have been added.</strong></li>
+    <li><strong>The tool is updated to DBD version 7.0.0.</strong></li>
+    <li><strong>New UI</strong></li>
   </ul>
 </ul>
