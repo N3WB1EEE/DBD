@@ -6,4 +6,11 @@
     <li><strong>The tool is updated to DBD version 7.0.0.</strong></li>
     <li><strong>New UI</strong></li>
   </ul>
+  <strong> Scylla 2.1:</strong>
+  <ul>
+    <li><strong>Fixed profile editor</strong></li>
+    <li><strong>Fixed linked progress</strong></li>
+    <li><strong>Fixed level spoof.</strong></li>
+    <li><strong>Increased the maximum possible bloodweb level</strong></li>
+  </ul>
 </ul>
