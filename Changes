@@ -1,22 +1,8 @@
 <ul>
-  <strong> Scylla 2.0:</strong>
+  <strong> Update 2.0:</strong>
   <ul>
     <li><strong>The tomes unlocker has been fixed and updated.</strong></li>
     <li><strong>New skins, characters and charms have been added.</strong></li>
-    <li><strong>The tool is updated to DBD version 7.0.0.</strong></li>
-    <li><strong>New UI</strong></li>
-  </ul>
-  <strong> Scylla 2.1:</strong>
-  <ul>
-    <li><strong>Fixed profile editor.</strong></li>
-    <li><strong>Fixed linked progress.</strong></li>
-    <li><strong>Fixed level spoof.</strong></li>
-    <li><strong>Increased the maximum possible bloodweb level.</strong></li>
-  </ul>
-  <strong> Scylla 2.2:</strong>
-  <ul>
-    <li><strong>Fixed killer reveal.</strong></li>
-    <li><strong>Added Tier system.</strong></li>
-    <li><strong>Added new feature to reveal rank (endgame lobby).</strong></li>
+    <li><strong>The tool is updated to DBD version 7.2.0.</strong></li>
   </ul>
 </ul>
